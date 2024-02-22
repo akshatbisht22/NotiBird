@@ -11,5 +11,5 @@ Notibird is a secure place to create and keep your memories safely. A note app b
 - Fast and Secure Servers
 - A huge Userbase
 
-URL : <a href="http://notibird.great-site.net">http://notibird.great-site.net/</a>
+URL : <a href="http://notibird.great-site.net" target="_blank">http://notibird.great-site.net/</a>
 
